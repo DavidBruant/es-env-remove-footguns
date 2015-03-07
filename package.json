@@ -1,0 +1,28 @@
+{
+  "name": "es-env-remove-footguns",
+  "version": "1.0.0",
+  "description": "Removing footguns from an ECMAScript environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidBruant/es-env-remove-footguns.git"
+  },
+  "keywords": [
+    "ECMAScript",
+    "non-standard",
+    "footgun"
+  ],
+  "author": "David Bruant <bruant.d@gmail.com> (https://twitter.com/DavidBruant)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidBruant/es-env-remove-footguns/issues"
+  },
+  "homepage": "https://github.com/DavidBruant/es-env-remove-footguns",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.0"
+  }
+}
